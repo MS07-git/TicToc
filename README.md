@@ -1,5 +1,5 @@
 # TicToc
-Simple playing game for window users .
+Simple game for window users .
 Build using AWT(Abstract Window Tool).
 Through AWT we can build all the window application.
 It is easy to understand as only buttons and textarea is used to create this game.
